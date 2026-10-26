@@ -5,7 +5,7 @@ description: |
   
   **Letzte Aktualisierung:** `r format(Sys.time(), "%a %b %d %X %Y")`
   
-  **WEBSITE UNDER CONSTRUUCTION**
+  *WEBSITE UNDER CONSTRUCTION*
   
 # site: distill::distill_website
 
@@ -50,32 +50,32 @@ Die Sitzungen finden mittwochs von 16:15 bis 17:45 im Chemiegebäude, Organische
 
 ### :rocket: Expert*innen
 
-More information will be provided soon. 
+Weitere Informationen folgen in Kürze. 
 
-#### 3. März
+<!-- #### 3. März -->
 
-**NAME, ROLE, COMPANY** 
+<!-- **NAME, ROLE, COMPANY**  -->
 
-XXXX.
+<!-- XXXX. -->
 
-#### 18. März
+<!-- #### 17. März -->
 
-**NAME, ROLE, COMPANY** 
+<!-- **NAME, ROLE, COMPANY**  -->
 
-XXXX.
+<!-- XXXX. -->
 
-#### 15. April
+<!-- #### 14. April -->
 
-**NAME, ROLE, COMPANY** 
+<!-- **NAME, ROLE, COMPANY**  -->
 
-XXXX.
+<!-- XXXX. -->
 
 
 
 # Kursbewertung
 
 Die Kursbewertung besteht aus zwei Teilen: **Karriereportfolio** und **Reflexionen zu Expertenvorträgen**. Das Karriereportfolio umfasst vier praxisorientierte Aufgaben.  
-Die Reflexionen umfassen vier schriftliche Reflexionen.
+Die Reflexionen umfassen drei schriftliche Reflexionen.
 
 Alle Einreichungen werden mit **BESTANDEN / NICHT BESTANDEN** bewertet und fliessen in die Endnote ein (siehe unten). 
 
@@ -134,7 +134,7 @@ Ein strategischer und individueller Karriereplan, der folgende Elemente umfasst 
 
 ### 2. Reflexionen zu Expertenvorträgen
 
-Insgesamt **4 Reflexionen** (je 2 Seiten). Jede Reflexion sollte folgende Elemente enthalten:
+Insgesamt **3 Reflexionen** (je 2 Seiten). Jede Reflexion sollte folgende Elemente enthalten:
 
 - Zusammenfassung der Vorträge: Kurze Darstellung der zentralen Inhalte und Berufsfelder der Expertinnen- und Expertenbeiträge.
 
@@ -145,15 +145,14 @@ Insgesamt **4 Reflexionen** (je 2 Seiten). Jede Reflexion sollte folgende Elemen
 ### 3. Abgabefristen und Endnoteberechnung
 
 | Aufgabe | Umfang | Abgabefrist |
-|---------------|-|------|
-| Reflexion 1 (Expertenvorträge, Session 2) | 2 Seiten | 11.03.2026 (12:00) |
-| Curriculum Vitae | 2 Seiten | 18.03.2026 (12:00) |
-| Reflexion 2 (Expertenvorträge, Sitzung 4) | 2 Seiten | 25.03.2026 (12:00) |
-| Motivationsschreiben | 1 Seite | 15.04.2026 (12:00) |
-| Reflexion 3 (Expertenvorträge, Sitzung 6) | 2 Seiten | 22.04.2026 (12:00) |
-| Interviewvorbereitung | 3 Seiten | 06.05.2026 (12:00) |
-| Reflexion 4 (Expertenvorträge, Sitzung 8) | 2 Seiten | 13.05.2026 (12:00) |
-| Karriereplan | 2 Seiten | 29.05.2026 (12:00) |
+|---------|--------|-------------|
+| Reflexion 1 (Expertenvorträge, Sitzung 2) | 2 Seiten | 11.03.2027 (23:59) |
+| Curriculum Vitae | 2 Seiten | 18.03.2027 (23:59) |
+| Reflexion 2 (Expertenvorträge, Sitzung 4) | 2 Seiten | 25.03.2027 (23:59) |
+| Motivationsschreiben | 1 Seite | 15.04.2027 (23:59) |
+| Reflexion 3 (Expertenvorträge, Sitzung 6) | 2 Seiten | 22.04.2027 (23:59) |
+| Interviewvorbereitung | 3 Seiten | 06.05.2027 (23:59) |
+| Karriereplan | 2 Seiten | 29.05.2027 (23:59) |
 
 
 Die Endnote setzt sich aus zwei unterschiedlich gewichteten Bestandteilen zusammen:
@@ -164,7 +163,7 @@ Die Endnote setzt sich aus zwei unterschiedlich gewichteten Bestandteilen zusamm
   Die Karriereportfolionote wird auf der Skala 1–6 berechnet.
 
 - Reflexionen zu Expertenvorträgen (40 %)  
-  Es können bis zu vier schriftliche Reflexionen eingereicht werden.  
+  Es können bis zu drei schriftliche Reflexionen eingereicht werden.  
   Alle Reflexionen sind innerhalb dieses Bestandteils gleich gewichtet.  
   Die Reflexionsnote wird auf der Skala 1–6 berechnet.
 
@@ -177,14 +176,14 @@ Die Endnote ergibt sich aus folgendem gewichteten Mittelwert:
 \text{Endnote} = 0.6 \times \text{Karriereportfolionote} + 0.4 \times \text{Reflexionsnote}
 \]
 
-### Endnote nach Anzahl eingereichter Leistungen
+### Endnote nach Anzahl bestandener Leistungen
 
-| Portfolio-Aufgaben ↓ / Reflexionen → | 0 | 1 | 2 | 3 | 4 |
-|-------------------------------------|----|----|----|----|----|
-| 0 | 1.0 | 1.5 | 2.0 | 2.5 | 3.0 |
-| 1 | 2.0 | 2.5 | 3.0 | 3.5 | 4.0 |
-| 2 | 2.5 | 3.0 | 3.5 | 4.0 | 4.5 |
-| 3 | 3.5 | 4.0 | 4.5 | 5.0 | 5.5 |
-| 4 | 4.0 | 4.5 | 5.0 | 5.5 | 6.0 |
+| Portfolio-Aufgaben ↓ / Reflexionen → | 0 | 1 | 2 | 3 |
+|-------------------------------------|-----|-----|-----|-----|
+| 0 | 1.0 | 1.5 | 2.5 | 3.0 |
+| 1 | 2.0 | 2.5 | 3.0 | 4.0 |
+| 2 | 2.5 | 3.0 | 4.0 | 4.5 |
+| 3 | 3.5 | 4.0 | 4.5 | 5.5 |
+| 4 | 4.0 | 4.5 | 5.5 | 6.0 |
 
 
